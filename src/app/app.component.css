@@ -1,0 +1,115 @@
+div,
+.nav {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+img {
+  padding: 0 20 0 0;
+  width: 300px;
+}
+.nav {
+  position: fixed;
+  top: 0px;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(223, 219, 219);
+  z-index: 10;
+  padding: 20px 50px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.header {
+  position: fixed;
+  top: 50px;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  z-index: 10;
+}
+.tableHeader {
+  background-color: rgb(223, 219, 219);
+  width: 100%;
+  border: none;
+  font-size: 20px;
+  padding: 20px 50px;
+}
+.select {
+  width: 200px;
+  font-size: 20px;
+}
+.spacer {
+  width: auto;
+}
+.navPages {
+  width: 80px;
+  text-align: center;
+}
+.downUp {
+  border-radius: 5px;
+  font-size: 25px;
+  width: 100%;
+  height: auto;
+}
+.gallery {
+  position: relative;
+  top: 120px;
+}
+.tableGallery {
+  border-spacing: 50px;
+  background-color: rgb(247, 247, 247);
+}
+.tableImage {
+  border: none;
+  background-color: rgb(255, 255, 255);
+}
+.tdImage {
+  vertical-align: middle;
+  background-color: rgb(0, 0, 0);
+  height: 450px;
+  width: 300px;
+  padding: 0;
+}
+.tdTitle,
+.tdOverview {
+  padding: 0 15px;
+}
+.child {
+  border: none;
+  min-height: 980px;
+  width: 300px;
+  background-color: rgb(255, 255, 255);
+}
+.scroll {
+  position: fixed;
+  color: rgba(252, 4, 4, 0.57);
+  background: none;
+  border: none;
+  font-size: 120px;
+  text-shadow: 1px 1px rgb(2, 2, 2);
+  z-index: 10;
+  top: 335px;
+}
+.scroll:focus {
+  outline: 0 !important;
+}
+.rScroll {
+  right: 20px;
+}
+.lScroll {
+  left: 20px;
+}
+.scroll:hover {
+  color: rgba(255, 66, 239, 0.474);
+}
+a {
+  color: rgb(24, 23, 23);
+  text-decoration: none;
+}
+.about {
+  position: relative;
+  top: 120px;
+}
+.about img {
+  padding: 0 20 0 0;
+  width: 100%;
+}

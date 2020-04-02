@@ -1,6 +1,7 @@
-# Homework2
+# AngularMovies
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.15.
+It uses Restful API to search, manage and display info about movies at https://api.themoviedb.org.
 
 ## Development server
 
