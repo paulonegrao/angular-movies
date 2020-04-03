@@ -1,2 +1,2 @@
 *.html linguist-detectable=false
-*.ts linguist-language=Angular
+*.ts linguist-language=TYpeScript
