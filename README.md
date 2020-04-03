@@ -1,7 +1,9 @@
 # AngularMovies
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.15.
-It uses Restful API to search, manage and display info about movies at https://api.themoviedb.org.
+It is an Angular JS app that uses Restful API to search, manage and display info about movies at https://api.themoviedb.org.
+
+![Angular Movies](https://github.com/paulonegrao/angular-movies/blob/master/src/assets/img/angular-movies-app.png?raw=true)
 
 ## Development server
 
